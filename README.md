@@ -1,5 +1,9 @@
 # Angular Features
 
+https://angular.dev/
+
+https://material.angular.io/
+
 ## Basic Concepts
 
 1. Angular CLI
